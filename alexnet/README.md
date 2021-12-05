@@ -1,6 +1,6 @@
-## Implementing AlexNet
+# Implementing AlexNet
 
-### Implementation Details
+## Implementation Details
 
 #### Python Libraries
 - Pytorch
