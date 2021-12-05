@@ -16,37 +16,37 @@ These are the constraints I imposed to myself when implementing these papers.
 ### Architecture
 
 1. **AlexNet**: [[Link to Paper]](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks) [[Implementation]](alexnet/)
-2. **ZFNet**: [[Link to Paper]](https://arxiv.org/abs/1311.2901)[[TODO]]()
-3. **VGG16**: [[Link to Paper]](https://arxiv.org/abs/1505.06798)[[TODO]]()
-4. **ResNet**: [[Link to Paper]](https://arxiv.org/abs/1704.06904)[[TODO]]()
-5. **GoogLeNet**: [[Link to Paper]](https://arxiv.org/abs/1409.4842)[[TODO]]()
-6. **Inception**: [[Link to Paper]](https://arxiv.org/abs/1512.00567)[[TODO]]()
-7. **Xception**: [[Link to Paper]](https://arxiv.org/abs/1610.02357)[[TODO]]()
-8. **MobileNet**: [[Link to Paper]](https://arxiv.org/abs/1704.04861)[[TODO]]()
+2. **ZFNet**: [[Link to Paper]](https://arxiv.org/abs/1311.2901) **TODO**
+3. **VGG16**: [[Link to Paper]](https://arxiv.org/abs/1505.06798) **TODO**
+4. **ResNet**: [[Link to Paper]](https://arxiv.org/abs/1704.06904) **TODO**
+5. **GoogLeNet**: [[Link to Paper]](https://arxiv.org/abs/1409.4842) **TODO**
+6. **Inception**: [[Link to Paper]](https://arxiv.org/abs/1512.00567) **TODO**
+7. **Xception**: [[Link to Paper]](https://arxiv.org/abs/1610.02357)  **TODO**
+8. **MobileNet**: [[Link to Paper]](https://arxiv.org/abs/1704.04861) **TODO**
 
 ### Semantic Segmentation
 
-1. **FCN**: [[Link to Paper]](https://arxiv.org/abs/1411.4038)[[TODO]]()
-2. **SegNet**: [[Link to Paper]](https://arxiv.org/abs/1511.00561)[[TODO]]()
-3. **UNet**: [[Link to Paper]](https://arxiv.org/abs/1505.04597)[[TODO]]()
-4. **PSPNet**: [[Link to Paper]](https://arxiv.org/abs/1612.01105)[[TODO]]()
-5. **DeepLab**: [[Link to Paper]](https://arxiv.org/abs/1606.00915)[[TODO]]()
-6. **ICNet**: [[Link to Paper]](https://arxiv.org/abs/1704.08545)[[TODO]]()
-7. **ENet**: [[Link to Paper]](https://arxiv.org/abs/1606.02147)[[TODO]]()
+1. **FCN**: [[Link to Paper]](https://arxiv.org/abs/1411.4038) **TODO**
+2. **SegNet**: [[Link to Paper]](https://arxiv.org/abs/1511.00561) **TODO**
+3. **UNet**: [[Link to Paper]](https://arxiv.org/abs/1505.04597) **TODO**
+4. **PSPNet**: [[Link to Paper]](https://arxiv.org/abs/1612.01105) **TODO**
+5. **DeepLab**: [[Link to Paper]](https://arxiv.org/abs/1606.00915) **TODO**
+6. **ICNet**: [[Link to Paper]](https://arxiv.org/abs/1704.08545) **TODO**
+7. **ENet**: [[Link to Paper]](https://arxiv.org/abs/1606.02147) **TODO**
 
 ### Generative adversarial networks
 
-1. **GAN**: [[Link to Paper]](https://arxiv.org/abs/1406.2661)[[TODO]]()
-2. **DCGAN**: [[Link to Paper]](https://arxiv.org/abs/1511.06434)[[TODO]]()
-3. **WGAN**: [[Link to Paper]](https://arxiv.org/abs/1701.07875)[[TODO]]()
-4. **Pix2Pix**: [[Link to Paper]](https://arxiv.org/abs/1611.07004)[[TODO]]()
-5. **CycleGAN**: [[Link to Paper]](https://arxiv.org/abs/1703.10593)[[TODO]]()
+1. **GAN**: [[Link to Paper]](https://arxiv.org/abs/1406.2661) **TODO**
+2. **DCGAN**: [[Link to Paper]](https://arxiv.org/abs/1511.06434) **TODO**
+3. **WGAN**: [[Link to Paper]](https://arxiv.org/abs/1701.07875) **TODO**
+4. **Pix2Pix**: [[Link to Paper]](https://arxiv.org/abs/1611.07004) **TODO**
+5. **CycleGAN**: [[Link to Paper]](https://arxiv.org/abs/1703.10593) **TODO**
 
 ### Object detection
 
-1. **RCNN**: [[Link to Paper]](https://arxiv.org/abs/1311.2524)[[TODO]]()
-2. **Fast-RCNN**: [[Link to Paper]](https://arxiv.org/abs/1504.08083)[[TODO]]()
-3. **Faster-RCNN**: [[Link to Paper]](https://arxiv.org/abs/1506.01497)[[TODO]]()
-4. **SSD**: [[Link to Paper]](https://arxiv.org/abs/1512.02325)[[TODO]]()
-5. **YOLO**: [[Link to Paper]](https://arxiv.org/abs/1506.02640)[[TODO]]()
-6. **YOLO9000**: [[Link to Paper]](https://arxiv.org/abs/1612.08242)[[TODO]]()
+1. **RCNN**: [[Link to Paper]](https://arxiv.org/abs/1311.2524) **TODO**
+2. **Fast-RCNN**: [[Link to Paper]](https://arxiv.org/abs/1504.08083) **TODO**
+3. **Faster-RCNN**: [[Link to Paper]](https://arxiv.org/abs/1506.01497) **TODO**
+4. **SSD**: [[Link to Paper]](https://arxiv.org/abs/1512.02325) **TODO**
+5. **YOLO**: [[Link to Paper]](https://arxiv.org/abs/1506.02640) **TODO**
+6. **YOLO9000**: [[Link to Paper]](https://arxiv.org/abs/1612.08242) **TODO**
