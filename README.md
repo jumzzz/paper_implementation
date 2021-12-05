@@ -5,7 +5,7 @@ This is my personal repository of the Machine Learning Papers I've implemented. 
 
 These are the constraints I imposed to myself when implementing these papers.
 
-- Avoid the temptation of looking on the actual code implementation from `paperswithcode` or existing implementation on GitHub, aside from the hyperparameters `values` that was used.
+- Avoid the temptation of looking on the actual code implementation from `paperswithcode` or existing implementation on GitHub. With the exception from the hyperparameters `values` that was used.
 - Reusing small parts (i.e. Convolution Layer, Color Jittering) from Machine Learning frameworks is okay.
 - Focus on the concepts, and principles that the papers has discussed, and translate those concepts and principles into a working code.
 
