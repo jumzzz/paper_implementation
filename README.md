@@ -5,7 +5,7 @@ This is my personal repository of the Machine Learning Papers I've implemented. 
 
 These are the constraints I imposed to myself when implementing these papers.
 
-- Avoid the temptation of looking on the actual code implementation from **paperswithcode** or existing implementation on GitHub. With the exception of the **hyperparameter values** that was used.
+- Make checking sample codes minimal.
 - Reusing small parts (i.e. Convolution Layer, Color Jittering) from Machine Learning frameworks is okay.
 - Focus on the concepts, and principles that the papers has discussed, and translate those concepts and principles into a working code.
 
@@ -50,3 +50,11 @@ These are the constraints I imposed to myself when implementing these papers.
 4. **SSD**: [[Link to Paper]](https://arxiv.org/abs/1512.02325) **TODO**
 5. **YOLO**: [[Link to Paper]](https://arxiv.org/abs/1506.02640) **TODO**
 6. **YOLO9000**: [[Link to Paper]](https://arxiv.org/abs/1612.08242) **TODO**
+
+### Transformers
+
+1. **Linear Algebra with Transformers**: [[Link to Paper]](https://arxiv.org/abs/2112.01898) **TODO**
+
+### Representation Learning
+1. **Training BatchNorm and Only BatchNorm: On the Expressive Power of Random Features in CNNs**:[[Link to Paper]](https://arxiv.org/abs/2003.00152) **TODO**
+2. **Understanding deep learning requires rethinking generalization**: [[Link to Paper]](https://arxiv.org/abs/1611.03530) **TODO**

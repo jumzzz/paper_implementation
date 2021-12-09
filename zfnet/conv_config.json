@@ -1,0 +1,56 @@
+{
+    "conv_deconv_01" : {
+        "in_channel" : 3,
+        "out_channel" : 96,
+        "conv_kernel_size" : 7,
+        "conv_stride" : 2,
+        "conv_padding" : 1,
+        "pool_kernel_size" : 3,
+        "pool_stride" : 2,
+        "pool_padding" : 1,
+        "has_pooling" : true,
+        "has_last_out" : false
+    },
+    "conv_deconv_02" : {
+        "in_channel" : 96,
+        "out_channel" : 256,
+        "conv_kernel_size" : 5,
+        "conv_stride" : 2,
+        "conv_padding" : 0,
+        "pool_kernel_size" : 3,
+        "pool_stride" : 2,
+        "pool_padding" : 1,
+        "has_pooling" : true,
+        "has_last_out" : false
+    },
+    "conv_deconv_03" : {
+        "in_channel" : 256,
+        "out_channel" : 384,
+        "conv_kernel_size" : 3,
+        "conv_stride" : 1,
+        "conv_padding" : 1,
+        "has_pooling" : false,
+        "has_last_out" : false
+    },
+    "conv_deconv_04" : {
+        "in_channel" : 384,
+        "out_channel" : 384,
+        "conv_kernel_size" : 3,
+        "conv_stride" : 1,
+        "conv_padding" : 1,
+        "has_pooling" : false,
+        "has_last_out" : false
+    },
+    "conv_deconv_05" : {
+        "in_channel" : 384,
+        "out_channel" : 256,
+        "conv_kernel_size" : 3,
+        "conv_stride" : 1,
+        "conv_padding" : 1,
+        "pool_kernel_size" : 3,
+        "pool_stride" : 2,
+        "pool_padding" : 0,
+        "has_pooling" : true,
+        "has_last_out" : true
+    }  
+}
