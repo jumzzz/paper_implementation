@@ -10,7 +10,6 @@ This produces visualizations per layer of the activations produced by specific C
 
 Also, I've used AlexNet (Krizhevsky et al., 2012) again here since the original paper uses it as their architecture of choice.
 
-
 ## Implementation Details
 
 #### Python Libraries
@@ -21,14 +20,24 @@ Also, I've used AlexNet (Krizhevsky et al., 2012) again here since the original 
 - Matplotlib
 - Seaborn
 
-### Hardware Used
+## Result of Implementation
 
+### Visualization of Activations for Low-Loss Predictions
+
+![Visualization of Activations for Low-Loss Predictions](images/min_loss_deconv.png)
+
+### Visualization of Activations for High-Loss Predictions
+
+![Visualization of Activations for High-Loss Predictions](images/max_loss_deconv.png)
+
+
+### Hardware Used 
 **GPU** : NVIDIA RTX 3060
 
-#### Dataset Used
+### Dataset Used
 - [Kaggle Cats and Dogs Dataset](https://www.microsoft.com/en-us/download/details.aspx?id=54765)
 
-#### References
+### References
 - [Visualizing and Understanding Convolutional Networks](https://arxiv.org/abs/1311.2901) (Original Paper)
 
 
