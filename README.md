@@ -17,12 +17,8 @@ These are the constraints I imposed to myself when implementing these papers.
 
 1. **AlexNet**: [[Link to Paper]](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks) [[Implementation]](alexnet/)
 2. **ZFNet**: [[Link to Paper]](https://arxiv.org/abs/1311.2901) [[Implementation]](zfnet/)
-3. **VGG16**: [[Link to Paper]](https://arxiv.org/abs/1505.06798) **TODO**
-4. **ResNet**: [[Link to Paper]](https://arxiv.org/abs/1704.06904) **TODO**
-5. **GoogLeNet**: [[Link to Paper]](https://arxiv.org/abs/1409.4842) **TODO**
-6. **Inception**: [[Link to Paper]](https://arxiv.org/abs/1512.00567) **TODO**
-7. **Xception**: [[Link to Paper]](https://arxiv.org/abs/1610.02357)  **TODO**
-8. **MobileNet**: [[Link to Paper]](https://arxiv.org/abs/1704.04861) **TODO**
+3. **ResNet**: [[Link to Paper]](https://arxiv.org/abs/1704.06904) **TODO**
+
 
 ### Semantic Segmentation
 
