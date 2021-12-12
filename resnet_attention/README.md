@@ -13,4 +13,4 @@
 ![Training Loss](images/train_loss.png)
 
 ### Train/Validation Accuracy
-![Training Loss](images/train_loss.png)
+![Training Loss](images/train_accuracy.png)
