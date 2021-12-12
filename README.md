@@ -17,7 +17,7 @@ These are the constraints I imposed to myself when implementing these papers.
 
 1. **AlexNet**: [[Link to Paper]](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks) [[Implementation]](alexnet/)
 2. **ZFNet**: [[Link to Paper]](https://arxiv.org/abs/1311.2901) [[Implementation]](zfnet/)
-3. **ResNet**: [[Link to Paper]](https://arxiv.org/abs/1704.06904) **TODO**
+3. **Residual Attention Network for Image Classification**: [[Link to Paper]](https://arxiv.org/abs/1704.06904) [[Implementation (With Architecture but Unsatisfying Result)]](resnet_attention/)
 
 
 ### Semantic Segmentation
