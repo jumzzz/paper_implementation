@@ -1,0 +1,12 @@
+1st Layer
+
+Output Size
+
+7x7, 64, stride = 2
+
+7x7 => kernel_size
+64  => filters
+2   => stride
+
+
+padding=3?
