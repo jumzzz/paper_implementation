@@ -16,6 +16,7 @@
 
 #### Dataset Used
 - [Weather Image Recognition](https://www.kaggle.com/jehanbhathena/weather-dataset) (Kaggle Dataset by Jehan Bhathena)
+- **Image Classification Task** with **11 Classes**
 
 #### References
 - [Residual Attention Network for Image Classification](https://arxiv.org/abs/1704.06904) (Original Paper by Fei Wang et.al.)
@@ -34,8 +35,8 @@
 
 ## Results of Training
 
-### Train/Validation Loss
+### Train/Validation Loss for 11 Classes of Weather Image
 ![Training Loss](images/train_loss_v3.png)
 
-### Train/Validation Accuracy
+### Train/Validation Accuracy for 11 Classes Weather Image
 ![Training Loss](images/train_accuracy_v3.png)
