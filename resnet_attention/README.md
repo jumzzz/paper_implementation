@@ -8,7 +8,7 @@
 ## Results of Training
 
 ### Train/Validation Loss
-![Training Loss](images/train_loss_v2.png)
+![Training Loss](images/train_loss_v3.png)
 
 ### Train/Validation Accuracy
-![Training Loss](images/train_accuracy_v2.png)
+![Training Loss](images/train_accuracy_v3.png)
