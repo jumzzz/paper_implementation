@@ -16,7 +16,7 @@
 
 #### Dataset Used
 - [Weather Image Recognition](https://www.kaggle.com/jehanbhathena/weather-dataset) (Kaggle Dataset by Jehan Bhathena)
-- **Image Classification Task** with **11 Classes**
+- **Image Classification Task with 11 Classes**
 
 #### References
 - [Residual Attention Network for Image Classification](https://arxiv.org/abs/1704.06904) (Original Paper by Fei Wang et.al.)
