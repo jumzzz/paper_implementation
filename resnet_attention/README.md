@@ -6,9 +6,16 @@
 ## Implementation Details
 
 #### Python Libraries
-- Tensorflow 2.6.2
-- Numpy
-- Matplotlib
+```
+tensorflow               2.6.2
+numpy                    1.19.5
+matplotlib               3.5.0
+python-magic             0.4.24
+```
+
+### Other Dependencies
+- Kaggle API for acquiring the dataset (`pip install kaggle`)
+- For reference of the API click [here](https://github.com/Kaggle/kaggle-api)
 
 ### Hardware Used
 
