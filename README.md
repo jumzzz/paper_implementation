@@ -40,12 +40,9 @@ These are the constraints I imposed to myself when implementing these papers.
 
 ### Object detection
 
-1. **RCNN**: [[Link to Paper]](https://arxiv.org/abs/1311.2524) **TODO**
-2. **Fast-RCNN**: [[Link to Paper]](https://arxiv.org/abs/1504.08083) **TODO**
-3. **Faster-RCNN**: [[Link to Paper]](https://arxiv.org/abs/1506.01497) **TODO**
-4. **SSD**: [[Link to Paper]](https://arxiv.org/abs/1512.02325) **TODO**
-5. **YOLO**: [[Link to Paper]](https://arxiv.org/abs/1506.02640) **TODO**
-6. **YOLO9000**: [[Link to Paper]](https://arxiv.org/abs/1612.08242) **TODO**
+1. **SSD**: [[Link to Paper]](https://arxiv.org/abs/1512.02325) **TODO**
+2. **YOLO**: [[Link to Paper]](https://arxiv.org/abs/1506.02640) **TODO**
+3. **YOLO9000**: [[Link to Paper]](https://arxiv.org/abs/1612.08242) **TODO**
 
 ### Transformers
 
