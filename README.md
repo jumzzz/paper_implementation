@@ -19,35 +19,3 @@ These are the constraints I imposed to myself when implementing these papers.
 2. **ZFNet**: [[Link to Paper]](https://arxiv.org/abs/1311.2901) [[PyTorch Implementation]](zfnet/)
 3. **Residual Attention Network for Image Classification**: [[Link to Paper]](https://arxiv.org/abs/1704.06904) [[Tensorflow/Keras Implementation]](resnet_attention/)
 
-
-### Semantic Segmentation
-
-1. **FCN**: [[Link to Paper]](https://arxiv.org/abs/1411.4038) **TODO**
-2. **SegNet**: [[Link to Paper]](https://arxiv.org/abs/1511.00561) **TODO**
-3. **UNet**: [[Link to Paper]](https://arxiv.org/abs/1505.04597) **TODO**
-4. **PSPNet**: [[Link to Paper]](https://arxiv.org/abs/1612.01105) **TODO**
-5. **DeepLab**: [[Link to Paper]](https://arxiv.org/abs/1606.00915) **TODO**
-6. **ICNet**: [[Link to Paper]](https://arxiv.org/abs/1704.08545) **TODO**
-7. **ENet**: [[Link to Paper]](https://arxiv.org/abs/1606.02147) **TODO**
-
-### Generative adversarial networks
-
-1. **GAN**: [[Link to Paper]](https://arxiv.org/abs/1406.2661) **TODO**
-2. **DCGAN**: [[Link to Paper]](https://arxiv.org/abs/1511.06434) **TODO**
-3. **WGAN**: [[Link to Paper]](https://arxiv.org/abs/1701.07875) **TODO**
-4. **Pix2Pix**: [[Link to Paper]](https://arxiv.org/abs/1611.07004) **TODO**
-5. **CycleGAN**: [[Link to Paper]](https://arxiv.org/abs/1703.10593) **TODO**
-
-### Object detection
-
-1. **SSD**: [[Link to Paper]](https://arxiv.org/abs/1512.02325) **TODO**
-2. **YOLO**: [[Link to Paper]](https://arxiv.org/abs/1506.02640) **TODO**
-3. **YOLO9000**: [[Link to Paper]](https://arxiv.org/abs/1612.08242) **TODO**
-
-### Transformers
-
-1. **Linear Algebra with Transformers**: [[Link to Paper]](https://arxiv.org/abs/2112.01898) **TODO**
-
-### Representation Learning
-1. **Training BatchNorm and Only BatchNorm: On the Expressive Power of Random Features in CNNs**:[[Link to Paper]](https://arxiv.org/abs/2003.00152) **TODO**
-2. **Understanding deep learning requires rethinking generalization**: [[Link to Paper]](https://arxiv.org/abs/1611.03530) **TODO**
