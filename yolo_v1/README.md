@@ -1,5 +1,7 @@
 # Implementing YOLO (V1)
 
+An attempt to implement YOLO from scratch (almost). 
+
 ## Implementation Details
 
 #### Python Libraries
