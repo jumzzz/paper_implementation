@@ -4,3 +4,6 @@
 *model/
 *dataset_v2/
 *backup/
+*yolo_v1/notebooks
+*yolo_v1/tb_logs
+*yolo_v1/test_dir
